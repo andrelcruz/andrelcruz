@@ -70,20 +70,3 @@ Software engineer from Brazil. Been at this for 12+ years and have seen and done
 
 </div>
 
----
-
-### Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrelcruz&theme=minimal&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=andrelcruz&style=flat-square&color=70A5FD" />
-
-</div>
